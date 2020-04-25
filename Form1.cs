@@ -27,16 +27,7 @@ namespace EntıtıyOrnek
             dataGridView1.Columns[4].Visible = false;
         }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
+     
         private void button6_Click(object sender, EventArgs e)
         {
 
